@@ -2,12 +2,12 @@ HW 8
 15 July 2019
 Upward Bound 
 
-1)	What does .append() method does? 
-2)	What does .remove() method does? 
-3)	What does .extend() method does? 
-4)	What is the difference between .pop() and .clear() method? 
+1)	What does .append() method does?:  The method append() appends a passed obj into the existing list.
+2)	What does .remove() method does?:   removes the given object from the list.
+3)	What does .extend() method does?:   adds the content to existing list.
+4)	What is the difference between .pop() and .clear() method?: pop() to remove it by index if you need the returned value
 5)	Friends2 = Friends.copy() 
-In the above statement- what does the variable ‘Friends2’ carry? 
+In the above statement- what does the variable â€˜Friends2â€™ carry?: FRIENDS TO HOLDS THE VALUE OF THE "friends" and will do what the person is asking to do because.
 
 
 Submit the answer on Github.com directly.
